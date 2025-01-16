@@ -8,7 +8,7 @@ metadata:
     backstage.io/kubernetes-id: test
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: fmenesesg/test
-    dapr.io/application-id: test: fmeneses/test
+    dapr.io/application-id: test
 spec:
   type: website
   system: system:default/conference-application
